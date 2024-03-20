@@ -1,0 +1,20 @@
+body{
+    background: burlywood;
+}
+img{
+    height: 300px;
+    width: 250px;
+    margin-left: 585px;
+    margin-top: 50px;
+}
+input[type="submit"]{
+    height: 50px;
+    width: 100px;
+    background: black;
+    color: white;
+    margin-left: 50px;
+}
+.box{
+margin-top:10PX;
+MARGIN-LEFT:535PX;
+}
